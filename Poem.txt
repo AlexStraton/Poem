@@ -6,3 +6,4 @@ Red
 yellow
 Pink
 Orange
+Faeries
